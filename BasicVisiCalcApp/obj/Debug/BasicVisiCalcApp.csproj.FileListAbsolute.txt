@@ -8,3 +8,13 @@ C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic V
 C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic VisiCalc App C#\Training - C-Shart-v1\obj\Debug\BasicVisiCalcApp.csproj.CoreCompileInputs.cache
 C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic VisiCalc App C#\Training - C-Shart-v1\obj\Debug\BasicVisiCalcApp.exe
 C:\Users\dsktp\Desktop\Projects\Tutorials\Visual Studio 2012\Training C#\Basic VisiCalc App C#\Training - C-Shart-v1\obj\Debug\BasicVisiCalcApp.pdb
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\bin\Debug\BasicVisiCalcApp.exe.config
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\bin\Debug\BasicVisiCalcApp.exe
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\bin\Debug\BasicVisiCalcApp.pdb
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\obj\Debug\BasicVisiCalcApp.csprojAssemblyReference.cache
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\obj\Debug\NS_BasicVisiCalcApp.BasicVisiCalcApp.resources
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\obj\Debug\NS_BasicVisiCalcApp.Properties.Resources.resources
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\obj\Debug\BasicVisiCalcApp.csproj.GenerateResource.cache
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\obj\Debug\BasicVisiCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\obj\Debug\BasicVisiCalcApp.exe
+C:\Users\dsktp\Desktop\Git VS\Training C#\Basic VisiCalc App C#\BasicVisiCalcApp\obj\Debug\BasicVisiCalcApp.pdb
